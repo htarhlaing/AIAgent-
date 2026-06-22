@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Runtime data
+logs/
+chroma_db/
+md5.txt
+*.sqlite3
+
+# IDE / operating system
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,12 @@
+streamlit>=1.57,<2
+langchain>=1.0,<2
+langchain-core>=1.0,<2
+langgraph>=1.0,<2
+langchain-google-genai>=4.0,<5
+langchain-chroma>=1.0,<2
+langchain-community>=0.4,<1
+langchain-text-splitters>=1.0,<2
+chromadb>=1.0,<2
+pypdf>=5,<7
+PyYAML>=6,<7
+python-dotenv>=1,<2

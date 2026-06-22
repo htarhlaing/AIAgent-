@@ -1,0 +1,17 @@
+collection_name : agent
+persist_directory : chroma_db
+k :  3
+fetch_k : 8
+rerank_k : 3
+score_threshold : 0.15
+vector_weight : 0.55
+lexical_weight : 0.30
+rerank_weight : 0.15
+data_path : data
+md5_hex_store : md5.txt
+manifest_path : chroma_db/index_manifest.sqlite3
+allow_knowledge_file_type : ["txt","pdf"]
+
+chunk_size : 200
+chunk_overlap : 20
+separators : ["\n\n","。",".","?","？","!"," ",""]

@@ -1,0 +1,4 @@
+external_data_path: data/external/records.csv
+default_report_month: "2025-12"
+demo_user_ids: ["1001", "1002", "1003", "1004", "1005", "1006", "1007", "1008", "1009", "1010"]
+demo_cities: ["深圳", "合肥", "杭州"]
