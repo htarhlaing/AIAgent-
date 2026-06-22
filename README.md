@@ -54,9 +54,4 @@ streamlit run app.py
 python -m unittest AI_agent.tests.test_quality_architecture -v
 ```
 
-## 文档
 
-- [项目简历报告](PROJECT_RESUME_REPORT.md)
-- [代码修改导览](CODE_CHANGE_WALKTHROUGH.md)
-- [LangGraph 与 RAG 实施说明](P1_P2_IMPLEMENTATION_GUIDE.md)
-- [供 ChatGPT 阅读的项目上下文](PROJECT_CONTEXT_FOR_CHATGPT.md)
