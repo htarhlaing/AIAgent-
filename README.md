@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # 智扫通 AI Agent
 
-面向扫地机器人和扫拖一体机器人的智能客服项目，支持产品问答、故障排查、维护保养和个人使用报告。
+面向扫地机器人和扫拖一体机器人的智能客服项目，支持产品问答、故障排查、维护保养和
+个人使用报告。
 
 ## 技术栈
 
@@ -60,6 +60,3 @@ python -m unittest AI_agent.tests.test_quality_architecture -v
 - [代码修改导览](CODE_CHANGE_WALKTHROUGH.md)
 - [LangGraph 与 RAG 实施说明](P1_P2_IMPLEMENTATION_GUIDE.md)
 - [供 ChatGPT 阅读的项目上下文](PROJECT_CONTEXT_FOR_CHATGPT.md)
-=======
-# AIAgent-
->>>>>>> origin/main
